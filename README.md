@@ -1,5 +1,5 @@
-# Calculadora_Portugol
-<h1>Para abrir o programa é necessario:<h1>
+<h1>Calculadora_Portugol</h1>
+<h2>Para abrir o programa é necessario:<h2>
 <h5>1- Baixar o arquivo menu_calculadora.por</h5>
 <h5>2- Abrir o arquivo na IDE portugol studio pelo desktop ou portugol.dev na web</h5>
 <h5>Depois disso basta executar o programa e aproveitar!</h5>
