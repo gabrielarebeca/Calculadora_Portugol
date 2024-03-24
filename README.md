@@ -6,4 +6,5 @@
 
 </h4>Assim que iniciar o programa é questionado qual o nome do usuário:</h4>
 
+
 ![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/80b33638-0977-4993-b90d-ff1e66a53eee)
