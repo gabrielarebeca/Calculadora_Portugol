@@ -23,19 +23,19 @@
 
 ![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/0b57d883-ceee-4608-a51e-044583d72f98)
 
-<h4> Tela Operação Soma
+<h4> Operação Soma
   
 ![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/fca39ab5-a343-4e35-b243-a37443b23f9d)
 
-<h4> Tela Operação Subtração
+<h4> Operação Subtração
 
 ![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/22c3089b-7e45-4b8b-ae9d-422d0f734715)
 
-<h4> Tela Operação Divisão
+<h4> Operação Divisão
 
 ![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/44aba1d9-1ff4-4a10-8b32-c120c7a001a7)
 
-<h4> Tela Operação Multiplicação
+<h4> Operação Multiplicação
 
 ![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/8159d45a-3796-435d-a280-18fad5bc6572)
 
