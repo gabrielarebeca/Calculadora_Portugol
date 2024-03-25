@@ -16,8 +16,8 @@
 ![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/8a3c97cf-6611-4a51-9428-4fdd90e80281)
 
 <h4>Tela recebe números
-
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/6412918c-a933-4bf7-8b89-3262f6fe1bbf)
+  
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/8bca9e4b-b844-4c0e-8072-e6d1f2a7a12a)
 
 <h4>Tela Menu
 
