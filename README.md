@@ -1,6 +1,6 @@
-<h1>Calculadora Realizada em Pseudocódigo</h1>
+<h1>Calculadora Realizada em Pseudocódigo
 
-<h2>Para abrir o programa é necessario:<h2>
+<h2>Para abrir o programa é necessario:
 <h4>1- Baixar o arquivo menu_calculadora.por</h4>
 <h4>2- Abrir o arquivo na IDE portugol studio pelo desktop ou portugol.dev na web</h4>
 <h4>Depois disso basta executar o programa e aproveitar!</h4>
