@@ -39,5 +39,10 @@
 
 ![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/8159d45a-3796-435d-a280-18fad5bc6572)
 
+<h4> Tela Voltar/ Sair
+
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/ec9de013-cb23-45d1-9e8a-4cc7466a2ddd)
+
+
 
 
