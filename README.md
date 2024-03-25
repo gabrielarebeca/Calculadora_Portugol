@@ -4,7 +4,7 @@
 <h4>2- Abrir o arquivo na IDE portugol studio pelo desktop ou portugol.dev na web</h4>
 <h4>Depois disso basta executar o programa e aproveitar!</h4>
   
-<h2>Telas do sistema<\h2>
+<h2>Telas do sistema
 
 <h4>Tela recebe nome</h4>
   
