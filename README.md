@@ -17,7 +17,7 @@
 
 <h4>Mostra Nome
   
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/ab297535-5b88-4ca2-985e-e3378f3fdc14)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/a152df75-5c15-42e9-9868-c6a50082b5c4)
 
 <h4>Tela Menu
 
