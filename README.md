@@ -55,6 +55,11 @@
 
 ![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/d790c16e-f1a3-466d-bfd3-27d35a472efa)
 
+<h4> Valtar ao Menu/ Sair
+
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/54480073-c98c-40b7-b398-7571a4c6b048)
+
+
 
 
 
