@@ -7,41 +7,55 @@
   
 <h2>Essas são as telas do sistema
 
+<h4>Tela Boas Vindas
+  
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/3e5589d1-90b8-4d99-9c37-9edb8bd97169)
+
 <h4>Tela recebe nome
   
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/80b33638-0977-4993-b90d-ff1e66a53eee)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/c838f87e-348f-4b02-8ce8-1d60ac9d114e)
 
-<h4>Tela boas vindas
-
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/8a3c97cf-6611-4a51-9428-4fdd90e80281)
-
-<h4>Tela recebe números
+<h4>Mostra Nome
   
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/8bca9e4b-b844-4c0e-8072-e6d1f2a7a12a)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/ab297535-5b88-4ca2-985e-e3378f3fdc14)
 
 <h4>Tela Menu
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/0b57d883-ceee-4608-a51e-044583d72f98)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/4d260d8d-8813-496e-8257-81989d281379)
 
 <h4> Operação Soma
   
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/fca39ab5-a343-4e35-b243-a37443b23f9d)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/9c2a113d-e7b6-4811-b24c-74725a3a7326)
 
 <h4> Operação Subtração
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/22c3089b-7e45-4b8b-ae9d-422d0f734715)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/5185250a-c9e1-4ba9-a96a-612eb9d74a44)
 
 <h4> Operação Divisão
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/44aba1d9-1ff4-4a10-8b32-c120c7a001a7)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/e56ca001-74ee-42fb-85f9-7c4f2ae13ba1)
 
 <h4> Operação Multiplicação
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/8159d45a-3796-435d-a280-18fad5bc6572)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/1bd0107a-d660-44a2-8b91-88cf82c89656)
 
-<h4> Tela Voltar/ Sair
+<h4> Raiz Quadrada
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/ec9de013-cb23-45d1-9e8a-4cc7466a2ddd)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/bf963ed5-074e-432e-bcd5-bd7772a08c7f)
+
+<h4> Raiz Cúbica
+
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/981c6dd4-9941-49f1-b66d-6cdae246ffba)
+
+<h4> Porcentagem
+
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/a2ee71f7-8d95-418f-b513-898ec9fea2f3)
+
+<h4> Converte Valor
+
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/e70219c1-6c0f-4faf-a301-04ee3baee489)
+
+
 
 
 
