@@ -9,7 +9,7 @@
 
 <h4>Tela Boas Vindas
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/863abbde-fe21-4253-9fda-d9403ddcf71f)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/e7e8aa86-e874-4a1e-96b9-679cdf986890)
 
 <h4>Tela recebe nome
   
@@ -25,11 +25,11 @@
 
 <h4> Operação Soma
   
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/9c2a113d-e7b6-4811-b24c-74725a3a7326)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/cb72b2fb-5d4c-4201-95f9-2c99b5a53444)
 
 <h4> Operação Subtração
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/5185250a-c9e1-4ba9-a96a-612eb9d74a44)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/06c98fad-2d02-4f8c-b544-57817376d4c6)
 
 <h4> Operação Divisão
 
@@ -37,7 +37,7 @@
 
 <h4> Operação Multiplicação
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/1bd0107a-d660-44a2-8b91-88cf82c89656)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/2ffe073a-f040-4f54-9bda-ba65c827d2f3)
 
 <h4> Raiz Quadrada
 
