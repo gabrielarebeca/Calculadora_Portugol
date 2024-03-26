@@ -9,7 +9,7 @@
 
 <h4>Tela Boas Vindas
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/3e5589d1-90b8-4d99-9c37-9edb8bd97169)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/863abbde-fe21-4253-9fda-d9403ddcf71f)
 
 <h4>Tela recebe nome
   
