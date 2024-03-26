@@ -13,7 +13,7 @@
 
 <h4>Tela recebe nome
   
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/c838f87e-348f-4b02-8ce8-1d60ac9d114e)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/c710cd64-bdf8-4666-8be7-4c1270838990)
 
 <h4>Mostra Nome
   
@@ -33,7 +33,7 @@
 
 <h4> Operação Divisão
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/e56ca001-74ee-42fb-85f9-7c4f2ae13ba1)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/aeba048c-0285-4986-908e-37bc996abca4)
 
 <h4> Operação Multiplicação
 
@@ -41,19 +41,20 @@
 
 <h4> Raiz Quadrada
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/bf963ed5-074e-432e-bcd5-bd7772a08c7f)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/41489ac4-aa4c-46d9-8488-950f94d64cc1)
 
 <h4> Raiz Cúbica
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/981c6dd4-9941-49f1-b66d-6cdae246ffba)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/82cb2c91-43b0-4864-90c0-5aabd58343db)
 
 <h4> Porcentagem
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/a2ee71f7-8d95-418f-b513-898ec9fea2f3)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/233efb13-8163-4fe7-8a95-3e6bca14858e)
 
 <h4> Converte Valor
 
-![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/e70219c1-6c0f-4faf-a301-04ee3baee489)
+![image](https://github.com/gabrielarebeca/Calculadora_Portugol/assets/110422932/d790c16e-f1a3-466d-bfd3-27d35a472efa)
+
 
 
 
